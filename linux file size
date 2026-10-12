@@ -1,0 +1,2 @@
+The user eleanor has left her password in a file that occupies 6969 bytes.
+find / -type f -size 6969c -exec cat {} \; 2>/dev/null
