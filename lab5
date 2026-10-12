@@ -1,0 +1,2 @@
+find hidden dir
+find / -type d -name hereiam 2>/dev/null
