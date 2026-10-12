@@ -1,0 +1,3 @@
+Target: emma
+  method use sed cmd to output txt on a specific line no.
+key cmd: sed -n '4069p' findme.txt
